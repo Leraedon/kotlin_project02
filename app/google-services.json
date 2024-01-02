@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "10868639218",
+    "project_id": "lostory-lrd140",
+    "storage_bucket": "lostory-lrd140.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10868639218:android:f8ff79e54a70c540e9976b",
+        "android_client_info": {
+          "package_name": "com.example.lostory"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "10868639218-jtl8m3mjru3uaikiqjlqubn4mcn5doc1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lostory",
+            "certificate_hash": "ca1880a940a0e705d776b38fdcf2029ac5edb531"
+          }
+        },
+        {
+          "client_id": "10868639218-crannbs7bt9ep1um5q6oiomjm9pa4hfb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDzsRl61D6rBrTqCNx1B-hPo7PyXs3xztM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "10868639218-crannbs7bt9ep1um5q6oiomjm9pa4hfb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
