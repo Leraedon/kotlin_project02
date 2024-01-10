@@ -6,5 +6,5 @@ data class Todo(
     val title: String? = null,
     val priority: Int? = null,
     val isCompleted: Int? = null,
-    val date: Int? = null
+    val date: String? = null
 )
