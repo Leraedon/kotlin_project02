@@ -1,4 +1,7 @@
 package com.example.lostory.ui.dday
 
-class DdayViewModel {
+import androidx.lifecycle.ViewModel
+
+class DdayViewModel(): ViewModel() {
+
 }
